@@ -2,3 +2,4 @@ cereal.csv: https://www.kaggle.com/code/ryanholbrook/stochastic-gradient-descent
 Salary_Data.csv: https://www.kaggle.com/datasets/codebreaker619/salary-data-with-age-and-experience/data
 ENB2012_data.csv: Tsanas, A. & Xifara, A. (2012). Energy Efficiency [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C51307.
 page-blocks.csv: Malerba, D. (1994). Page Blocks Classification [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5J590.
+class.csv: German, B. (1987). Glass Identification [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5WW2P.
